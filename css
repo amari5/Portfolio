@@ -1,20 +1,44 @@
 h1 {
-  color: white;
-  font-size: 300%;
+  color: pink;
+  font-size: 500%;
 }
 h2 {
-  color: white;
-  font-size: 200%;
+  color: blue;
+  font-size: 250%;
 }
 p {
-  color: green;
+  color: white;
   font-size:150%;
 }
-th {
-color:white;
-font-size: 200%
+h3{
+color:Yellow;
+font-size: 250%
 }
-td {
-  color:red;
-  font-size: 200%;
+h5 {
+  color: purple;
+  font-size: 250%
+}
+a:link {
+color:blue;
+font-size: 175%;
+}
+.side-scroller {
+  text-align: right;
+  float: right;
+}
+h4 {
+  color: red;
+  font-size:250%
+}
+.websites {
+  text-align: left;
+  float: left;
+}
+#quote-one {
+height: 250px;
+width: 175px;
+}
+#gifs {
+  height: 400px;
+  weight:250px;
 }
